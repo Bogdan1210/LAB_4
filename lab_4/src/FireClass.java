@@ -6,7 +6,7 @@ public class FireClass {
     }
 
     public void extinguishFire() {
-        System.out.println("Гасіння пожежі розмром " + fireSize);
+        System.out.println("Гасіння пожежі розміром " + fireSize);
     }
 
     public double calculateExtinguishingCost(double costPerUnit) {
